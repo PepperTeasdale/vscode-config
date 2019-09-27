@@ -1,0 +1,29 @@
+{
+  "eslint.validate": [
+    "javascript",
+    "javascriptreact",
+    "typescript",
+    "typescriptreact"
+  ],
+  "workbench.colorTheme": "Monokai",
+  "workbench.settings.editor": "json",
+  "vim.insertModeKeyBindings": [
+    {
+      "before": [
+        "j",
+        "k"
+      ],
+      "after": [
+        "<esc>"
+      ]
+    }
+  ],
+  "files.autoSave": "onFocusChange",
+  "[typescript]": {
+    "editor.tabSize": 2
+  },
+  "window.zoomLevel": 0,
+  "editor.minimap.enabled": false,
+  "editor.fontFamily": "Fira Code",
+  "editor.fontLigatures": true
+}
